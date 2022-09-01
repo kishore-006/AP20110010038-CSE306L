@@ -1,4 +1,4 @@
-//implementation of Symbol Table using Linked List
+//Symbol Table using Linked List
 #include <stdio.h>
 #include <stdlib.h>
 #include <malloc.h>
